@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 44" role="img" aria-label="HP">
+  <rect x="1" y="1" width="138" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <circle cx="26" cy="22" r="12" fill="#2EC4B6" fill-opacity=".22" stroke="#2EC4B6" stroke-opacity=".5" stroke-width="2"/>
+  <text x="20" y="27" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="900" fill="#0A2540">hp</text>
+  <text x="52" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">HP</text>
+</svg>
+

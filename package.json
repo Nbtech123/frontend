@@ -1,0 +1,13 @@
+{
+  "name": "nb-tech-solutions-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "live-server --host=127.0.0.1 --port=5173 --wait=200 --ignorePattern=node_modules --no-browser",
+    "start": "live-server --host=127.0.0.1 --port=5173 --wait=200 --ignorePattern=node_modules"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
+

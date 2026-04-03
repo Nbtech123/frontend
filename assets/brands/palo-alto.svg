@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 44" role="img" aria-label="Palo Alto Networks">
+  <rect x="1" y="1" width="258" height="42" rx="21" fill="#FA5D19" fill-opacity=".08" stroke="#FA5D19" stroke-opacity=".22"/>
+  <path d="M22 14v16l8-8-8-8Zm12 8 8 8V14l-8 8Z" fill="#FA5D19" fill-opacity=".85"/>
+  <text x="54" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" fill="#1a1a2e">Palo Alto</text>
+  <text x="142" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#444">Networks</text>
+</svg>

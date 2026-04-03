@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" role="img" aria-label="Fortinet">
+  <rect x="1" y="1" width="218" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <g transform="translate(14 14)" fill="#FF7A00" fill-opacity=".28" stroke="#FF7A00" stroke-opacity=".5">
+    <rect x="0" y="0" width="16" height="16" rx="5"/>
+    <rect x="20" y="0" width="16" height="16" rx="5"/>
+    <rect x="40" y="0" width="16" height="16" rx="5"/>
+  </g>
+  <text x="78" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">Fortinet</text>
+</svg>
+

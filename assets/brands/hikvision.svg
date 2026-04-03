@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" role="img" aria-label="Hikvision">
+  <rect x="1" y="1" width="218" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <circle cx="26" cy="22" r="10" fill="#2EC4B6" fill-opacity=".30" stroke="#2EC4B6" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="26" cy="22" r="4.5" fill="#0A2540" fill-opacity=".55"/>
+  <text x="48" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">Hikvision</text>
+</svg>
+

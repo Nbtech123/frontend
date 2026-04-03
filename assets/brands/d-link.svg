@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 44" role="img" aria-label="D-Link">
+  <rect x="1" y="1" width="198" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <path d="M16 22c0-7 5.7-12.7 12.7-12.7h6.6c7 0 12.7 5.7 12.7 12.7S42.3 34.7 35.3 34.7h-6.6C21.7 34.7 16 29 16 22Z"
+    fill="#2EC4B6" fill-opacity=".22" stroke="#2EC4B6" stroke-opacity=".5" stroke-width="2"/>
+  <text x="64" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">D-Link</text>
+</svg>
+

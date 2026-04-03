@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 44" role="img" aria-label="Dahua">
+  <rect x="1" y="1" width="188" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <path d="M18 22c0-7 5.7-12.7 12.7-12.7h3.6c7 0 12.7 5.7 12.7 12.7s-5.7 12.7-12.7 12.7h-3.6C23.7 34.7 18 29 18 22Z" fill="#FF7A00" fill-opacity=".22"/>
+  <text x="56" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">Dahua</text>
+</svg>
+

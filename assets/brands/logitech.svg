@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 44" role="img" aria-label="Logitech">
+  <rect x="1" y="1" width="238" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <rect x="14" y="14" width="20" height="16" rx="8" fill="#2EC4B6" fill-opacity=".20" stroke="#2EC4B6" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="26" cy="22" r="3" fill="#FF7A00" fill-opacity=".7"/>
+  <text x="50" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">Logitech</text>
+</svg>
+

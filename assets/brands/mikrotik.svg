@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" role="img" aria-label="MikroTik">
+  <rect x="1" y="1" width="218" height="42" rx="21" fill="#0A2540" fill-opacity=".06" stroke="#0A2540" stroke-opacity=".14"/>
+  <path d="M16 30V14m0 8h18m6-8v16m0-16h10" stroke="#FF7A00" stroke-opacity=".65" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="78" y="28" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" fill="#0A2540">MikroTik</text>
+</svg>
+
