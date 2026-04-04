@@ -8,7 +8,7 @@ function getApiBase() {
   const { protocol, hostname, port } = window.location;
   const host = hostname || "";
 
-  if (protocol === "file:") return "http://127.0.0.1:1000";
+  if (protocol === "file:") return "http://127.0.0.1:5000";
 
   const isLocalhost =
     host === "localhost" || host === "127.0.0.1" || host === "[::1]" || host === "::1";
@@ -16,11 +16,11 @@ function getApiBase() {
 
   const devPorts = new Set(["5173", "4173", "5500", "8080", "3000", "3030"]);
   if (devPorts.has(port)) {
-    if (isLocalhost) return "http://127.0.0.1:1000";
-    if (isPrivateLan) return `${protocol}//${host}:1000`;
+    if (isLocalhost) return "http://127.0.0.1:5000";
+    if (isPrivateLan) return `${protocol}//${host}:5000`;
   }
 
-  if (isLocalhost) return "http://127.0.0.1:000";
+  if (isLocalhost) return "http://127.0.0.1:5000";
 
   return "";
 }
