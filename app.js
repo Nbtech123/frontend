@@ -1,5 +1,8 @@
 const $ = (sel, root = document) => root.querySelector(sel);
 
+/** Production API (Render). Optional: meta name="api-base" to override. */
+const PRODUCTION_API_BASE = "https://nbtech.onrender.com";
+
 function getApiBase() {
   const meta = document.querySelector('meta[name="api-base"]');
   const fromMeta = meta?.getAttribute("content")?.trim();
@@ -22,7 +25,7 @@ function getApiBase() {
 
   if (isLocalhost) return "http://127.0.0.1:5000";
 
-  return "";
+  return PRODUCTION_API_BASE;
 }
 
 const API_BASE = getApiBase();
@@ -404,10 +407,14 @@ function setupFeedbackForm() {
         !API_BASE && window.location.protocol !== "file:"
           ? " Add a meta tag api-base pointing at your API, or use localhost for development."
           : "";
+      const devHint =
+        API_BASE && API_BASE.includes("127.0.0.1")
+          ? " Is the backend running locally on port 5000?"
+          : " Check that the API is reachable and CORS allows this site.";
       setAlert(
         alertEl,
         "error",
-        `Could not reach the server (${API_BASE || "same origin"}/api). Is the backend running on port 5000?${hint}`
+        `Could not reach the server (${API_BASE || "same origin"}/api).${devHint}${hint}`
       );
     } finally {
       setLoading(false);
